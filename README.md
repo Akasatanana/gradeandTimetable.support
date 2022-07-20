@@ -1,1 +1,1 @@
-# Akasatanana.githubio.gradeandTimetable.support
+# 時間割&GPAのサポートURL
